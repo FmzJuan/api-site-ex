@@ -1,0 +1,15 @@
+# NPM INSTALL
+-express
+-sql
+
+# OBJETIVO
+-conectar um form na api
+-conectar um form no database 
+
+# ESTA FALTANDO
+-criar um layout frontend da tela de log
+-criar outra tela que da acesso a tela inicial
+-(opicional)criar altenticaçao para criaçao de conta com uma conta google, fazendo
+log ou sing-in
+
+# CRIANDO PROJETO NO GIT HUB
